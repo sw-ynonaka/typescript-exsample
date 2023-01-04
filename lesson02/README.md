@@ -30,3 +30,8 @@ src/item.ts
 dist/index.html
 ```
 上記を作成、記述する(リポジトリ参照)
+
+## 実行
+npm start
+http://localhost:8080/
+表示確認
